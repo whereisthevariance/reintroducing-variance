@@ -1,0 +1,12 @@
+reintroducing-variance
+Copyright (c) 2026 The authors
+
+The rating platform in benchmark/rating/ adapts design and code from two internal annotation
+applications, an OCR labelling app and a requirements labelling app
+(multi-user annotation with provenance, content-hashed configurations, the coverage sampler,
+the export API with HTTP Basic auth, the CLI, the web shell, stylesheet and layout script).
+Their owner released this material for use in this
+repository under the MIT License on 2026-10-22. No data, documents or
+regulatory-domain code from the original applications are included.
+
+We thank the team who designed and built the original applications.
